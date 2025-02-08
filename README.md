@@ -20,11 +20,21 @@ Organizations strive to improve employee performance through various interventio
 - ✅ **Social support enhances engagement**, improving performance.
 - ❌ However, the **moderation effect** is not statistically significant.
 
+![1](https://github.com/user-attachments/assets/78902320-0def-44be-a6bb-da053fd7f7a4)
+![2](https://github.com/user-attachments/assets/b8b3e07a-399e-4ba1-a915-d794d657fb3d)
+![3](https://github.com/user-attachments/assets/0b5e0551-7ea5-45d3-8516-088e6652bc31)
+![4](https://github.com/user-attachments/assets/f280c39b-6250-4676-8e01-7efaab29f542)
+![5](https://github.com/user-attachments/assets/0deedff2-9533-4f14-b334-3b1e7e0068a0)
+![6](https://github.com/user-attachments/assets/9f2ad79f-d45b-4115-a98e-49edad15e4ff)
+![7](https://github.com/user-attachments/assets/f834c3e1-d3ab-43c4-8ab2-d8e06141953c)
+![8](https://github.com/user-attachments/assets/0670c485-d0b7-4397-8d6d-e3efa1af6d87)
+![9](https://github.com/user-attachments/assets/28e72a3d-a8b1-4676-97d9-fcb5a6a7a7b0)
+![10](https://github.com/user-attachments/assets/665ca051-6e85-4792-8aba-5e7332778eba)
+
 ## 📁 Repository Structure
-- `notebooks/` → Jupyter notebooks with data cleaning & analysis
+- `python code/` → Jupyter notebook
 - `reports/` → Final research findings & PDF reports
-- `src/` → Python scripts (if applicable)
-- `data/` → Sample or anonymized datasets (if applicable)
+- `data/` → Dataset
 
 ## 🚀 How to Run
 1. Clone the repo:
