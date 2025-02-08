@@ -29,7 +29,6 @@ Organizations strive to improve employee performance through various interventio
 ![7](https://github.com/user-attachments/assets/f834c3e1-d3ab-43c4-8ab2-d8e06141953c)
 ![8](https://github.com/user-attachments/assets/0670c485-d0b7-4397-8d6d-e3efa1af6d87)
 ![9](https://github.com/user-attachments/assets/28e72a3d-a8b1-4676-97d9-fcb5a6a7a7b0)
-![10](https://github.com/user-attachments/assets/665ca051-6e85-4792-8aba-5e7332778eba)
 
 ## 📁 Repository Structure
 - `python code/` → Jupyter notebook
