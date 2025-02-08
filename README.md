@@ -29,4 +29,4 @@ Organizations strive to improve employee performance through various interventio
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/People-Analytics-Project.git
+   git clone https://github.com/RTikhile/People-Analytics-Project.git
