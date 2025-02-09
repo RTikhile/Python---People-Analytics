@@ -1,7 +1,7 @@
 # People Analytics: Understanding Employee Performance
 
 ## 📌 Project Overview
-This project explores how **employee self-efficacy impacts performance**, with **engagement as a mediator** and **social support as a potential moderator**. The analysis is based on a conceptual framework using **Hayes' Process Model 7** for moderated mediation.
+This project explores how **employee self-efficacy impacts performance**, with **engagement as a mediator** and **social support as a potential moderator**. The analysis is based on a conceptual framework using **Hayes' Process Model 7** for moderated mediation. 
 
 ## 🔍 Business Problem
 Organizations strive to improve employee performance through various interventions. This project aims to answer:
