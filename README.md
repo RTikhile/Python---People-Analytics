@@ -31,8 +31,7 @@ Organizations strive to improve employee performance through various interventio
 ![9](https://github.com/user-attachments/assets/28e72a3d-a8b1-4676-97d9-fcb5a6a7a7b0)
 
 ## 📁 Repository Structure
-- `python code/` → Jupyter notebook
-- `reports/` → Final research findings & PDF reports
+- `python code/` → Jupyter notebook 
 - `data/` → Dataset
 
 ## 🚀 How to Run
